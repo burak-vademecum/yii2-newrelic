@@ -1,5 +1,5 @@
 {
-    "name": "bazilio/yii2-newrelic",
+    "name": "burak-vademecum/yii2-newrelic",
     "description": "Newrelic integration for Yii2",
     "type": "yii2-extension",
     "license": "MIT",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "sobanvuex/php-newrelic": "^2.0",
+        "burak-vademecum/php-newrelic": "^2.0",
         "php": ">=5.4.0",
         "yiisoft/yii2": "*"
     },
